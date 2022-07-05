@@ -1,0 +1,6 @@
+.text {
+  font-family: Arial;
+  font-size: 80px;
+  display: grid;
+  place-items: center;
+}
